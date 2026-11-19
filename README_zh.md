@@ -6,6 +6,8 @@
 而PonWrt基础功能协议和注意事项请阅读下方的原始说明文档。    
 
 ## PonWrt
+项目地址：  
+https://github.com/pbs05/ponwrt
 
 PonWrt 基于 [ImmortalWrt](https://github.com/immortalwrt/immortalwrt)，增加了对 Airoha AN7581 和 AN7583 PON 设备的支持。
 
