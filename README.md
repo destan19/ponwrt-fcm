@@ -1,6 +1,12 @@
-# PonWrt
+
+# PonWrt-fcm
 
 English | [简体中文](README_zh.md)
+
+This project is an PonWrt-based build that adds features such as parental controls, internet usage monitoring, traffic statistics, and client list.  
+These added features have been extracted from [FanchmWrt](https://github.com/fanchmwrt/fanchmwrt) ,please ensure that any added features comply with the original project's license.  
+
+## PonWrt
 
 PonWrt is based on [ImmortalWrt](https://github.com/immortalwrt/immortalwrt) and adds support for Airoha AN7581 and AN7583 PON devices.
 
