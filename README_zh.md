@@ -1,6 +1,11 @@
-# PonWrt
+# PonWrt-fcm
 
-[English](README.md) | 简体中文
+[English](README.md) | 简体中文  
+
+该项目基于PonWrt合入了FanchmWrt的一些高级功能，包括上网行为管理、上网审计、流量统计、终端列表等，加入的新特性请遵循原项目的协议，
+而PonWrt基础功能协议和注意事项请阅读下方的原始说明文档。    
+
+## PonWrt
 
 PonWrt 基于 [ImmortalWrt](https://github.com/immortalwrt/immortalwrt)，增加了对 Airoha AN7581 和 AN7583 PON 设备的支持。
 
